@@ -16,7 +16,7 @@ This is a simple Rock Paper Scissors game built with HTML and JavaScript. The ga
 3. Open the `index.html` file in any modern web browser.
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
-cd rock-paper-scissors
+git clone https://github.com/pablocasamianestudios/rockPaperScissors.git
+cd rockPaperScissors
 open index.html
 ```
